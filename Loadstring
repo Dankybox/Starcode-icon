@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dankybox/Starcode-icon/main/Starcode%20script", true))()
